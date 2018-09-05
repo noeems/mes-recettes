@@ -1,7 +1,7 @@
 # Apple and ginger kefir
 ### Second ferment
 
-![apple ginger kefir](../medias/apple ginger kefir.jpg)
+![apple ginger kefir](../medias/apple ginger kefir lowres.jpg)
 
 **Ingredients**  
 • A Normandy apple, firm 🍎  
@@ -18,4 +18,4 @@ _Notable fact_: Cork popped open and lost half of the bottle to a fizz parade! O
 We drank the rest on that same afternoon.
 
 Enthusiasm ↓
-![apple ginger kefir popped](https://github.com/bndct-lmbrt/mes-recettes/blob/master/medias/apple ginger enthusiasm.jpg)
+![apple ginger kefir popped](../medias/apple ginger enthusiasm.jpg)
